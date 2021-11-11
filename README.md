@@ -1,6 +1,6 @@
 # 2021年 Moblie Projects
 
-# weather + 24 seasons
+# weather + 24 solar term
 
 # drawing board
 
